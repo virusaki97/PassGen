@@ -6,7 +6,7 @@ Date: 02/23/2019
 
 Original passgen author: Mohamed
 
-Some changed by: UnderMind0x41
+Some changed by: @Virusaki97
 
 Description: A social engineering password generator
 
