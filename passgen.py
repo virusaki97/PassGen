@@ -2,7 +2,7 @@
 # Original passgen author: Mohamed
 # Some changed by: virusaki
 # Description: A social engineering password generator
-# This script required python version >= 4.0
+# This script required python version >= 3.0
 import argparse
 import sys
 
